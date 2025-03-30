@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ChurBonanza/static/css/main.efa53d2b.css",
+    "main.css": "/ChurBonanza/static/css/main.6a784bc5.css",
     "main.js": "/ChurBonanza/static/js/main.a35a04a2.js",
     "static/js/453.73b679df.chunk.js": "/ChurBonanza/static/js/453.73b679df.chunk.js",
     "static/media/background.jpg": "/ChurBonanza/static/media/background.0f4e913e01cf1bf3df04.jpg",
     "index.html": "/ChurBonanza/index.html",
-    "main.efa53d2b.css.map": "/ChurBonanza/static/css/main.efa53d2b.css.map",
+    "main.6a784bc5.css.map": "/ChurBonanza/static/css/main.6a784bc5.css.map",
     "main.a35a04a2.js.map": "/ChurBonanza/static/js/main.a35a04a2.js.map",
     "453.73b679df.chunk.js.map": "/ChurBonanza/static/js/453.73b679df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efa53d2b.css",
+    "static/css/main.6a784bc5.css",
     "static/js/main.a35a04a2.js"
   ]
 }
