@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChurBonanza/static/css/main.76d7df75.css",
+    "main.js": "/ChurBonanza/static/js/main.a35a04a2.js",
+    "static/js/453.73b679df.chunk.js": "/ChurBonanza/static/js/453.73b679df.chunk.js",
+    "index.html": "/ChurBonanza/index.html",
+    "main.76d7df75.css.map": "/ChurBonanza/static/css/main.76d7df75.css.map",
+    "main.a35a04a2.js.map": "/ChurBonanza/static/js/main.a35a04a2.js.map",
+    "453.73b679df.chunk.js.map": "/ChurBonanza/static/js/453.73b679df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d7df75.css",
+    "static/js/main.a35a04a2.js"
+  ]
+}
