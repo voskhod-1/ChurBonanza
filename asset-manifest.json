@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ChurBonanza/static/css/main.c32f5e92.css",
-    "main.js": "/ChurBonanza/static/js/main.7fa1c03a.js",
+    "main.css": "/ChurBonanza/static/css/main.52abaa2f.css",
+    "main.js": "/ChurBonanza/static/js/main.e7e22f4f.js",
     "static/js/453.73b679df.chunk.js": "/ChurBonanza/static/js/453.73b679df.chunk.js",
     "static/media/background.jpg": "/ChurBonanza/static/media/background.0f4e913e01cf1bf3df04.jpg",
     "index.html": "/ChurBonanza/index.html",
-    "main.c32f5e92.css.map": "/ChurBonanza/static/css/main.c32f5e92.css.map",
-    "main.7fa1c03a.js.map": "/ChurBonanza/static/js/main.7fa1c03a.js.map",
+    "main.52abaa2f.css.map": "/ChurBonanza/static/css/main.52abaa2f.css.map",
+    "main.e7e22f4f.js.map": "/ChurBonanza/static/js/main.e7e22f4f.js.map",
     "453.73b679df.chunk.js.map": "/ChurBonanza/static/js/453.73b679df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c32f5e92.css",
-    "static/js/main.7fa1c03a.js"
+    "static/css/main.52abaa2f.css",
+    "static/js/main.e7e22f4f.js"
   ]
 }
